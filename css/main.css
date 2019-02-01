@@ -26,7 +26,7 @@ html {
 
 .banner {
   position: relative;
-  max-height: 25em;
+  max-height: 24em;
   overflow: hidden;
 }
 
@@ -35,5 +35,5 @@ html {
   position: absolute;
   bottom: 0;
   left: 0;
-  right:0;
+  right: 0;
 }
